@@ -1,6 +1,7 @@
 ### Renata Medical
 🔗 **Live site:** [renatamedical.com](https://www.renatamedical.com/)
-**Role:** Front-end development · **Platform:** [add platform] · **Timeline:** Under 1 month, concept to launch
+
+**Role:** Front-end development · **Platform:** Webflow · **Timeline:** Under 1 month, concept to launch
 
 A multi-page marketing and education site for Renata's Minima Pro™ pediatric
 stent, serving two audiences: physicians and parents. I built the site from
